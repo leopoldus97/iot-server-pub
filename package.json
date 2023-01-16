@@ -36,7 +36,7 @@
     "graphql-subscriptions": "^1.2.1",
     "graphql-tools": "^8.2.0",
     "graphql-ws": "^5.5.0",
-    "mongoose": "^5.13.9",
+    "mongoose": "^6.4.6",
     "mqtt": "^4.2.8",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
